@@ -1,7 +1,7 @@
 # 👋 Olá, seja bem-vindo(a)! Eu sou o Bruno Expedito.
 
-- Hoje, trabalho como Analista de Business Intelligence.
-- Sou estudante de Estatística e estou no 7º semestre.
+- Hoje, trabalho como Analista de Business Intelligence Pleno.
+- Sou estudante de Estatística e estou no 8º semestre.
 - Estou focando nos estudos de Machine Learning e tecnologia Cloud.
 - Futuro Cientista de Dados e Engenheiro de Machine Learning.
 
